@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumNet", "QuantumNet\QuantumNet.csproj", "{6C46A895-CE97-44D1-9932-D9238A70E205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumNet.Backend", "QuantumNet.Backend\QuantumNet.Backend.csproj", "{08805581-B972-4E6F-97BB-B3BF3130CD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C46A895-CE97-44D1-9932-D9238A70E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C46A895-CE97-44D1-9932-D9238A70E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C46A895-CE97-44D1-9932-D9238A70E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C46A895-CE97-44D1-9932-D9238A70E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08805581-B972-4E6F-97BB-B3BF3130CD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08805581-B972-4E6F-97BB-B3BF3130CD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08805581-B972-4E6F-97BB-B3BF3130CD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08805581-B972-4E6F-97BB-B3BF3130CD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52394308-F49E-4876-8042-2FC09C78950E}
+	EndGlobalSection
+EndGlobal
